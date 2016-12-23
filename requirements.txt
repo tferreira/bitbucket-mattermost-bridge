@@ -1,4 +1,4 @@
 requests
 Flask
 Jinja2
-pxytension
+pyxtension==1.0
